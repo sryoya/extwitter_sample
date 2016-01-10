@@ -1,0 +1,13 @@
+/_build
+/deps
+.iex.exs
+erl_crash.dump
+*.ez
+
+#twitter APIの認証は'.iex.exs'に以下の形で記入した
+#ExTwitter.configure(
+  #consumer_key: "****",
+  #consumer_secret: "****",
+  #access_token: "****",
+  #access_token_secret: "****"
+#)
