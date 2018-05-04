@@ -1,9 +1,9 @@
 ExtwitterSample
 ===============
 
+# 概要
+Extwitter(Twitter の Streaming API を扱えるライブラリ)を触ってみた
 
-# Extwitterというライブラリを使ってみた
-# Twitter の Streaming API を扱えるライブラリ
 # 参考
 https://github.com/parroty/extwitter
 https://github.com/parroty/extwitter#sample
